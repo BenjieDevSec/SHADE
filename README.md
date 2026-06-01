@@ -7,10 +7,7 @@
 - Tor Identity Management (Start/Rotate)
 - Nmap Port Scanning
 - WHOIS domain lookups
-- Auto-Clean system for privacy
-
-## Preview
-![SHADE Preview](preview.png)
+- Auto-Clean system for privacy)
 
 ## Installation
 ```bash
