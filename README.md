@@ -18,9 +18,9 @@ git clone https://github.com/BenjieDevSec/SHADE.git
 cd SHADE
 chmod +x shade.sh
 bash shade.sh
-
-Disclaimer
+```
+## Disclaimer
 This tool is for educational purposes only. Use it only on networks and systems you have permission to test.
 
-Credits
+## Credits
 Created by: BenjieDevSec
