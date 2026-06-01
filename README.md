@@ -9,6 +9,9 @@
 - WHOIS domain lookups
 - Auto-Clean system for privacy)
 
+## Preview
+![SHADE Preview](preview.png)
+
 ## Installation
 ```bash
 git clone https://github.com/BenjieDevSec/SHADE.git
